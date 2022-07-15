@@ -1,1 +1,3 @@
-# quiz-app-js
+#　概要
+---
+javascriptでクイズアプリ作成
